@@ -1,6 +1,6 @@
 from tkinter import *
-from tkinter import filedialog
-from tkinter import messagebox
+from tkinter import filedialog #idk why, but needed
+from tkinter import messagebox #idk why, but needed
 import webbrowser
 import xml.etree.ElementTree
 
